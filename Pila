@@ -10,6 +10,7 @@ public class Practica2 {
     public static void main(String[] args) {
          Scanner leer=new Scanner(System.in);
             int opt,n=0, tope=0,ran;
+             System.out.println("De que tamaño desea la pila?");
             n=leer.nextInt();
      
          char[]chr={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','x','w','y','z'};
